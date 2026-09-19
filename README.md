@@ -1,13 +1,15 @@
 <div align="center">
 
+<!-- ANIMATED ASCII PARROT GIF -->
 <img src="./parrot.gif" alt="Animated ASCII Parrot" width="450" />
 
 # Sagar Singh Rawat
-**B.Tech CSE Student | Machine Learning Intern @ DRDO | Full-Stack & IoT Developer**
+**B.Tech CSE Student | Ex-Machine Learning Intern @ DRDO | Freelance Developer**
 
- Dehradun, India | ✉️ [officialsagar2709@gmail.com](mailto:officialsagar2709@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/SagarSRawat) | 🐙 [GitHub](https://github.com/Sagar0810k)
+Dehradun, India | ✉️ [officialsagar2709@gmail.com](mailto:officialsagar2709@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/SagarSRawat) | 🐙 [GitHub](https://github.com/Sagar0810k)
 
-![Profile Views](https://hits.seeyoufarm.dev/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSagar0810k&count_bg=%237928CA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false&base=458)
+<!-- WORKING PROFILE VIEW COUNTER -->
+![Profile Views](https://komarev.com/ghpvc/?username=Sagar0810k&color=7928ca&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -38,11 +40,16 @@
 
 ---
 
-### 💼 Work & Internship Experience
+### 💼 Work & Experience
 
-* **Machine Learning Intern @ Defence Electronics Applications Laboratory (DEAL), DRDO** *(June 2026 – July 2026)*
+* **Ex-Machine Learning Intern @ Defence Electronics Applications Laboratory (DEAL), DRDO** *(June 2026 – July 2026)*
   * Architected a **CRNN-based Acoustic Vehicle Detection** pipeline achieving **96.83% test accuracy**.
   * Designed custom epoch-level subsampling loops and real-time inference demos using **FastAPI** & **Streamlit**.
+
+* **Freelance Software Developer** *(2024 – Present)*
+  * Delivered end-to-end web architectures, ML integrations, and automation pipelines for clients.
+  * Developed **HTCab Taxi Platform**, implementing custom Base64 media compression to reduce media hosting bandwidth by 40%.
+
 * **AI Development Intern @ Edunet Foundation (Microsoft & SAP)** *(Jan 2025 – Feb 2025)*
   * Built a **DistilGPT-2 transformer healthcare chatbot** with sub-1.5s response latency and custom rule-based triage.
 
@@ -68,7 +75,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sagar0810k&show_icons=true&theme=radial" alt="Sagar's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar0810k&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+<!-- RELIABLE GITHUB STATS CARDS -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar0810k&theme=dark" alt="GitHub Streak" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar0810k&layout=compact&theme=dark" alt="Top Languages" width="48%" />
 
 </div>
