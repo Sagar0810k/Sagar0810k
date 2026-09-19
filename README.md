@@ -68,13 +68,12 @@ Dehradun, India | ✉️ [officialsagar2709@gmail.com](mailto:officialsagar2709@
 
 * **Amazon ML Summer School 2026:** Selected for national Machine Learning mentorship program by Amazon Scientists.
 * **Hackathons:** Coordinated and participated in 15 hackathons; achieved finalist positions in 7 competitions.
-* **Competitive Programming:** Solved 300+ problems across LeetCode, GeeksforGeeks, and CodeChef.
-* **Education:** B.Tech in Computer Science & Engineering @ Graphic Era Hill University (2023–2027).
+* **Competitive Programming:** Solved 400+ problems across LeetCode, GeeksforGeeks, and CodeChef.
 
 ---
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar0810k&theme=dark" alt="GitHub Streak Stats" height="500" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar0810k&theme=dark" alt="GitHub Streak Stats" width="48%" />
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sagar0810k&layout=compact&theme=dark" alt="Top Languages" width="48%" />
 </div>
