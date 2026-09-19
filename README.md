@@ -1,15 +1,15 @@
 <div align="center">
 
 <!-- ANIMATED ASCII PARROT GIF -->
-<img src="./parrot.gif" alt="Animated ASCII Parrot" width="450" />
+<img src="./parrot (1).gif" alt="Animated ASCII Parrot" width="450" />
 
 # Sagar Singh Rawat
 **B.Tech CSE Student | Ex-Machine Learning Intern @ DRDO | Freelance Developer**
 
 Dehradun, India | ✉️ [officialsagar2709@gmail.com](mailto:officialsagar2709@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/SagarSRawat) | 🐙 [GitHub](https://github.com/Sagar0810k)
 
-<!-- WORKING PROFILE VIEW COUNTER -->
-![Profile Views](https://komarev.com/ghpvc/?username=Sagar0810k&color=7928ca&style=flat-square&label=Profile+Views)
+<!-- WORKING PROFILE VIEW COUNTER (STARTS AT BASE 458) -->
+![Profile Views](https://komarev.com/ghpvc/?username=Sagar0810k&color=7928ca&style=flat-square&label=Profile+Views&base=458)
 
 </div>
 
@@ -75,8 +75,8 @@ Dehradun, India | ✉️ [officialsagar2709@gmail.com](mailto:officialsagar2709@
 
 <div align="center">
 
-<!-- RELIABLE GITHUB STATS CARDS -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar0810k&theme=dark" alt="GitHub Streak" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar0810k&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+<!-- RELIABLE STATS CARDS THAT WORK OUT OF THE BOX -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sagar0810k&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sagar0810k&layout=compact&theme=dark" alt="Top Languages" width="48%" />
 
 </div>
