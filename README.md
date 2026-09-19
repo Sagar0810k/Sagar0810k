@@ -9,7 +9,7 @@
 Dehradun, India | ✉️ [officialsagar2709@gmail.com](mailto:officialsagar2709@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/SagarSRawat) | 🐙 [GitHub](https://github.com/Sagar0810k)
 
 <!-- WORKING PROFILE VIEW COUNTER (STARTS AT BASE 458) -->
-![Profile Views](https://komarev.com/ghpvc/?username=Sagar0810k&color=7928ca&style=flat-square&label=Profile+Views&base=989)
+![Profile Views](https://komarev.com/ghpvc/?username=Sagar0810k&color=7928ca&style=flat-square&label=Profile+Views&base=1479)
 
 </div>
 
