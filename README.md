@@ -75,6 +75,6 @@ Dehradun, India | ✉️ [officialsagar2709@gmail.com](mailto:officialsagar2709@
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Sagar0810k&show_icons=true&theme=dark" alt="Sagar's GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar0810k&theme=dark" alt="GitHub Streak Stats" width="48%" />
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sagar0810k&layout=compact&theme=dark" alt="Top Languages" width="48%" />
 </div>
