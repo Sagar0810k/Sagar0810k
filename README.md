@@ -1,5 +1,12 @@
 <div align="center">
 
+## 🐟 My GitHub Koi
+
+<div align="center">
+  <img src="koi/koi.gif" width="256" alt="My GitHub activity koi" />
+</div>
+
+
 <!-- ANIMATED ASCII PARROT GIF -->
 <img src="./parrot (1).gif" alt="Animated ASCII Parrot" width="600" />
 
